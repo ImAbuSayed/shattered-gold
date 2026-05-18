@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shattered-gold/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Shattered Gold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shattered-gold/) |
+| **Get License** | [Official Music Licensing for Shattered Gold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shattered-gold/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Main takda haan teri akhiyan da jaadu
+> Sleek silhouettes moving through the midnight haze
+> Mera dil kenda tu ae meri aarzu
+> Got me so addicted in this neon maze
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
