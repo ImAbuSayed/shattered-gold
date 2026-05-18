@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shattered Gold
+
+This log tracks the cryptographic history and versioning for the song **Shattered Gold** (shattered-gold).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-18T20:16:29.283019 | `v1` | `3b026a3c0dbaf003011a327cce95853fdaa93a8b57cf88f9d6b38dda9ed46b56` | `61171d6698d3a0bb3b393d0d660b07f693eb6d0463afd0e2f6b4580715562f24` | `2026-05-18_shattered-gold-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
